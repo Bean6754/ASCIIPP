@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "graphics.h"
+#include "graphics.hpp"
 
 int main(void)
 {
